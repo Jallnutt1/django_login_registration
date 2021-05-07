@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: aquamarine;
+}
+p{
+    margin: 5px 0px;
+}
+#wrapper{
+    width:960px;
+    margin:10px auto;
+    padding:10px;
+    /* border: 1px solid orange; */
+    /* border-radius: 10px; */
+}
+#head{
+    width:900px;
+    padding: 0px 30px;
+}
+#main{
+    display: flex;
+    justify-content: space-around;
+}
+.hor-sec{
+    width:400px;
+    margin: 15px 0px;
+    padding:10px;
+    /* border: 1px solid purple; */
+    /* border-radius: 10px; */
+}
